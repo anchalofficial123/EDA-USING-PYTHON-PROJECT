@@ -17,5 +17,5 @@ This project performs an Exploratory Data Analysis (EDA) on customer churn data 
 3. Run each cell to reproduce the analysis.
 
 ## Project Files
-- https://github.com/anchalofficial123/bank-python-project-using-mysql](EDA using python project.ipynb) - Contains the full code and analysis for the project.
+(EDA using python project.ipynb) - Contains the full code and analysis fo
 -
